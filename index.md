@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Space Shooter
 
 
 Spacebar to shoot and arrow keys to move the spaceship.
